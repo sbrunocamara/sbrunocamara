@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 | :boom: Don't forget to check my Linkedin profile using the link below and reach me!
 
 :page_with_curl: With a solid professional trajectory spanning several years dedicated to Information Technology, I have acquired a broad range of skills and knowledge that position me as a highly qualified and valued professional. My diverse and proven experience is reflected in fundamental and appreciated skills within the IT field.
 
@@ -9,7 +9,7 @@
 PHP | JAVASCRIPT | PYTHON | GOOGLE CLOUD | APACHE WEB SERVER | NGINX WEB SERVER | LINUX SERVER | AWS | LARAVEL PHP FRAMEWORK | ADONIS JS | MYSQL | SQLSERVER | MONGODB | VUE.JS | NODE.JS | DOCKER | GIT | ZABBIX | GRAFANA | WEBSOCKET | REDIS | SONARQUBE
 
 
-## You can contact me through these channels :arrow_down:
+## :speech_balloon: You can contact me through these channels :arrow_down:
 
 :email:Email: sbruno.camara@gmail.com
 
