@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+:computer: With a solid professional trajectory spanning several years dedicated to Information Technology, I have acquired a broad range of skills and knowledge that position me as a highly qualified and valued professional. My diverse and proven experience is reflected in fundamental and appreciated skills within the IT field.
+
+Currently working as a Software Developer, utilizing various technologies to create applications with clean, secure, and well-structured code, following SOLID principles and MVC standards. I embrace best practices of Clean Code and Clean Architecture, ensuring quality with testing tools and code analysis, and automating processes with continuous integration.
+
+Main technologies and tools I currently use:
+
+PHP | JAVASCRIPT | PYTHON | GOOGLE CLOUD | APACHE WEB SERVER | NGINX WEB SERVER | LINUX SERVER | AWS | LARAVEL PHP FRAMEWORK | ADONIS JS | MYSQL | SQLSERVER | MONGODB | VUE.JS | NODE.JS | DOCKER | GIT | ZABBIX | GRAFANA | WEBSOCKET | REDIS | SONARQUBE
+
+
 <!--
 **sbrunocamara/sbrunocamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
