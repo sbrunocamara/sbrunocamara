@@ -9,7 +9,7 @@
 PHP | JAVASCRIPT | PYTHON | GOOGLE CLOUD | APACHE WEB SERVER | NGINX WEB SERVER | LINUX SERVER | AWS | LARAVEL PHP FRAMEWORK | ADONIS JS | MYSQL | SQLSERVER | MONGODB | VUE.JS | NODE.JS | DOCKER | GIT | ZABBIX | GRAFANA | WEBSOCKET | REDIS | SONARQUBE
 
 
-###You can contact me through these channels:arrow_down:
+## You can contact me through these channels:arrow_down:
 
 :email:Email: sbruno.camara@gmail.com
 
