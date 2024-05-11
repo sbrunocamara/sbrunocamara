@@ -12,6 +12,7 @@ PHP | JAVASCRIPT | PYTHON | GOOGLE CLOUD | APACHE WEB SERVER | NGINX WEB SERVER 
 You can contact me through these channels:arrow_down:
 
 :email:Email: sbruno.camara@gmail.com
+
 :link:Linkedin: www.linkedin.com/in/bruno-camara-s
 
 <!--
